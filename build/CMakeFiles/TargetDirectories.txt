@@ -1,0 +1,3 @@
+C:/Users/JasonArmstrong/Development/Vulkan/HelloTriangle/build/CMakeFiles/HelloTriangle.dir
+C:/Users/JasonArmstrong/Development/Vulkan/HelloTriangle/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/JasonArmstrong/Development/Vulkan/HelloTriangle/build/CMakeFiles/ZERO_CHECK.dir
